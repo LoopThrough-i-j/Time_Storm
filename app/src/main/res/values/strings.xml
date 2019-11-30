@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Time Storm</string>
+    <string name="score">Score: %1$d</string>
+    <string name="gametime">Time: %1$d</string>
+    <string name="tapme">Tap me Hard</string>
+    <string name="game_ends">The Game is finished.Your Score is %1$d</string>
+    <string name="title">Time Storm </string>
+    <string name="aboutGame">Tap the button till the timer gets to 0 and find out How fast can You Tap.</string>
+</resources>
